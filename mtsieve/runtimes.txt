@@ -1,0 +1,20 @@
+Alex Johnson - I pledge my honor that I have abided by the Stevens Honor System.
+
+./mtsieve -s100 -e200000000 -t1 : 0m2.07s 
+./mtsieve -s100 -e200000000 -t2 : 0m1.754s 
+./mtsieve -s100 -e200000000 -t3 : 0m1.841s 
+./mtsieve -s100 -e200000000 -t4   : 0m1.565s 
+./mtsieve -s100 -e200000000 -t5 : 0m1.581s
+./mtsieve -s100 -e200000000 -t6 : 0m1.649s 
+./mtsieve -s100 -e200000000 -t7 : 0m1.688s  
+./mtsieve -s100 -e200000000 -t8 : 0m1.583s
+./mtsieve -s100 -e200000000 -t9 : 0m1.651s  
+./mtsieve -s100 -e200000000 -t10 : 0m1.654s 
+./mtsieve -s100 -e200000000 -t11 : 0m1.673s 
+./mtsieve -s100 -e200000000 -t12 : 0m1.643s 
+./mtsieve -s100 -e200000000 -t13 : 0m1.650s 
+./mtsieve -s100 -e200000000 -t14 : 0m1.608s 
+./mtsieve -s100 -e200000000 -t15 : 0m1.627s 
+./mtsieve -s100 -e200000000 -t16 : 0m1.447s 
+
+The CPU I am using is Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz. The time seems to platue with the number of threads used to divide the intervals. I am also on a linux machine which allows me to use 16 threads.
